@@ -7,3 +7,14 @@ then i thought "I can do far better than that with what ive learned" so i came u
 After i finish this ill be moving onto C and learning more and master that and C++ along with OpenCL later and CUDA.
 
 
+Bundled update incase it doesnt let you read it
+
+These are all the tests leading up to the big "release" as my ai assistant has wrote that it will be, itll be getting put out after i upload this (12/29/25), im still really bad about writing comments since i know how to read the code and i do plan to work on that as i continue because ill need to.
+Explanation on files: 
+fileLoop.py is the loop process of choices for inside the testing CLI terminal when its opened and holds that set of data and statements.
+Full_HB__GUI.py holds the GUI's entire build (or mainloop so everything inside keeps running while its open). 
+Holobank_engine.py holds the programs main body which consists of it being told what data to hold and some of the eras belonging to the objects.
+Conjoined_HBB.py was a test run to make sure the,
+ImportHB.py would work, which that is the files open/close script.
+
+
